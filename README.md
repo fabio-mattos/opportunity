@@ -1,6 +1,7 @@
 
 # Opportunity
 
+O nome do projeto se deu em homenagem ao rôbo da Nasa enviado para Marte, mas se trata de um teste técnico feito para a Conta Azul.
 
 ## Requerimentos
 
@@ -39,4 +40,6 @@ Abaixo está um exemplo de um calculo de posição a partir de um comando "MML"
 ```shel
 curl -s --request POST http://localhost:8080/rest/mars/MML
 ```
+
+
 
